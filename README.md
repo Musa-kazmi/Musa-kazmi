@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Syed Ali Musa Kazmi 👋</h1>
-<h3 align="center">AI Engineering Intern | BBIT @ PUCIT, Class of 2028</h3>
+<h3 align="center">AI Engineering Intern | BBIT'28</h3>
 
 <p align="center">
   Building end-to-end AI systems — from classical ML to computer vision to agentic GenAI —
