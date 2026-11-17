@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Syed Ali Musa Kazmi 👋</h1>
-<h3 align="center">AI Engineering Intern @ NCAI | BBIT'28, University of the Punjab</h3>
+<h3 align="center">AI Enthusiast | BBIT'28, University of the Punjab</h3>
 
 <p align="center">
   Building end-to-end AI projects, from classical ML to computer vision to generative AI,
